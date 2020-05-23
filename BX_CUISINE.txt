@@ -1,0 +1,10 @@
+Cuisine
+"Mexican, Puerto Rican, Dominican, Korean"
+"Italian, Albanian "
+"Italian, Seafood"
+"Italian, Albanian"
+Filipino
+Jewish
+"Puerto Rican, Dominican"
+"Jamaican, West Indian"
+Irish

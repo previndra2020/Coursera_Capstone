@@ -1,0 +1,6 @@
+Cuisine
+"Mexican, Indian, Italian"
+"Italian, Russian, Arab, Polish"
+"Italian, Russian, Arab, Polish"
+"Italian, Russian, Arab, Polish"
+"Italian, Sri Lankan, Pakistani, Indian"
