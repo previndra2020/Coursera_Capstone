@@ -1,0 +1,243 @@
+Borough,Neighbourhood,Cuisine
+The Bronx,Bedford Park,Mexican
+The Bronx,Bedford Park,Puerto Rican
+The Bronx,Bedford Park,Dominican
+The Bronx,Bedford Park,Korean
+The Bronx,Belmont,Italian
+The Bronx,Belmont,Albanian 
+The Bronx,City Island,Italian
+The Bronx,City Island,Seafood
+The Bronx,Morris Park,Italian
+The Bronx,Morris Park,Albanian
+The Bronx,Norwood,Filipino
+The Bronx,Riverdale,Jewish
+The Bronx,South Bronx,Puerto Rican
+The Bronx,South Bronx,Dominican
+The Bronx,Wakefield,Jamaican
+The Bronx,Wakefield,West Indian
+The Bronx,Woodlawn,Irish
+Queens,Astoria,Greek
+Queens,Astoria,Italian
+Queens,Astoria,Eastern European
+Queens,Astoria,Brazilian
+Queens,Astoria,Egyptian
+Queens,Astoria,Arabic
+Queens,Bellerose,Indian
+Queens,Bellerose,Pakistani
+Queens,Flushing,Chinese
+Queens,Flushing,Korean
+Queens,Forest Hills,Jewish
+Queens,Forest Hills,Russian
+Queens,Forest Hills,Uzbek
+Queens, Kew Gardens Hills,Jewish
+Queens, Kew Gardens Hills,Russian
+Queens, Kew Gardens Hills,Uzbek
+Queens, Rego Park,Jewish
+Queens, Rego Park,Russian
+Queens, Rego Park,Uzbek
+Queens,Howard Beach,Italian
+Queens, Ozone Park,Italian
+Queens,Glendale,German
+Queens,Glendale,Polish
+Queens,Jackson Heights,Indian
+Queens,Jackson Heights,Pakistani
+Queens,Jackson Heights,Bangladeshi
+Queens,Jackson Heights,Colombian
+Queens,Jackson Heights,Ecuadorian
+Queens,Jackson Heights,Peruvian
+Queens,Jackson Heights,Korean
+Queens,Jackson Heights,Filipino
+Queens,Jackson Heights,Thai
+Queens,Jackson Heights,Tibetan
+Queens,Jackson Heights,Bhutanese
+Queens,Jackson Heights,Mexican
+Queens,Jamaica,Bangladeshi
+Queens,Jamaica,Caribbean
+Queens,Jamaica,African American
+Queens,Jamaica,African
+Queens,Jamaica,Creole
+Queens,Little Neck,Arab
+Queens,Little Neck,Chinese
+Queens,Little Neck,Italian
+Queens,Richmond Hill,Indian
+Queens,Richmond Hill,Guyanese
+Queens,Richmond Hill,Trinidadian
+Queens,Richmond Hill,Pakistani
+Queens,Richmond Hill,Bangladeshi
+Queens, South Ozone Park,Indian
+Queens, South Ozone Park,Guyanese
+Queens, South Ozone Park,Trinidadian
+Queens, South Ozone Park,Pakistani
+Queens, South Ozone Park,Bangladeshi
+Queens,The Rockaways,Irish
+Queens,The Rockaways,Jewish
+Queens,Woodhaven,Irish
+Queens,Woodhaven,Dominican
+Queens,Woodhaven,Mexican
+Queens,Woodhaven,Guyanese
+Queens,Woodside,Filipino
+Queens,Woodside,Irish
+Queens,Woodside,Mexican
+Queens,Woodside,Tibetan
+Queens,Woodside,Romanian
+Queens, Sunnyside,Filipino
+Queens, Sunnyside,Irish
+Queens, Sunnyside,Mexican
+Queens, Sunnyside,Tibetan
+Queens, Sunnyside,Romanian
+Brooklyn,Bay Ridge,Irish
+Brooklyn,Bay Ridge,Italian
+Brooklyn,Bay Ridge,Greek
+Brooklyn,Bay Ridge,Turkish
+Brooklyn,Bay Ridge,Lebanese
+Brooklyn,Bay Ridge,Palestinian
+Brooklyn,Bay Ridge,Yemeni
+Brooklyn,Bay Ridge,Arabic
+Brooklyn,Bedford-Stuyvesant,African American
+Brooklyn,Bedford-Stuyvesant,Jamaican
+Brooklyn,Bedford-Stuyvesant,Trinidadian
+Brooklyn,Bedford-Stuyvesant,Puerto Rican
+Brooklyn,Bedford-Stuyvesant,West Indian
+Brooklyn,Bensonhurst,Italian
+Brooklyn,Bensonhurst,Chinese
+Brooklyn,Bensonhurst,Turkish
+Brooklyn,Bensonhurst,Russian
+Brooklyn,Bensonhurst,Mexican
+Brooklyn,Bensonhurst,Uzbek
+Brooklyn,,Italian
+Brooklyn,,Chinese
+Brooklyn,,Turkish
+Brooklyn,,Russian
+Brooklyn,,Mexican
+Brooklyn,,Uzbek
+Brooklyn,Borough Park,Jewish
+Brooklyn,Borough Park,Italian
+Brooklyn,Borough Park,Mexican
+Brooklyn,Borough Park,Chinese
+Brooklyn,Brighton Beach,Russian
+Brooklyn,Brighton Beach,Georgian
+Brooklyn,Brighton Beach,Turkish
+Brooklyn,Brighton Beach,Pakistani
+Brooklyn,Brighton Beach,Ukrainian
+Brooklyn,Bushwick,Puerto Rican
+Brooklyn,Bushwick,Mexican
+Brooklyn,Bushwick,Dominican
+Brooklyn,Bushwick,Ecuadorian
+Brooklyn,Canarsie,Jamaican
+Brooklyn,Canarsie,West Indian
+Brooklyn,Canarsie,African American
+Brooklyn,Carroll Gardens,Italian
+Brooklyn,Crown Heights,Jamaican
+Brooklyn,Crown Heights,West Indian
+Brooklyn,Crown Heights,Jewish
+Brooklyn,East New York,African American
+Brooklyn,East New York,Dominican
+Brooklyn,East New York,Puerto Rican
+Brooklyn,Flatbush,Jamaican
+Brooklyn,Flatbush,Haitian
+Brooklyn,Flatbush,Creole
+Brooklyn,Greenpoint,Polish
+Brooklyn,Greenpoint,Ukrainian
+Brooklyn,Kensington,Bengali
+Brooklyn,Kensington,Pakistani
+Brooklyn,Kensington,Mexican
+Brooklyn,Kensington,Uzbek
+Brooklyn,Kensington,Polish
+Brooklyn,Midwood,Jewish
+Brooklyn,Midwood,Italian
+Brooklyn,Midwood,Russian
+Brooklyn,Midwood,Pakistani
+Brooklyn,Park Slope,Italian
+Brooklyn,Park Slope,Irish
+Brooklyn,Park Slope,French
+Brooklyn,Park Slope,Puerto Rican
+Brooklyn,Red Hook,Puerto Rican
+Brooklyn,Red Hook,African American
+Brooklyn,Red Hook,Italian
+Brooklyn,Sheepshead Bay,Seafood
+Brooklyn,Sheepshead Bay,Chinese
+Brooklyn,Sheepshead Bay,Russian
+Brooklyn,Sheepshead Bay,Italian
+Brooklyn,Sunset Park,Puerto Rican
+Brooklyn,Sunset Park,Chinese
+Brooklyn,Sunset Park,Arab
+Brooklyn,Sunset Park,Mexican
+Brooklyn,Sunset Park,Italian
+Brooklyn,Williamsburg,Italian
+Brooklyn,Williamsburg,Jewish
+Brooklyn,Williamsburg,Dominican
+Brooklyn,Williamsburg,Puerto Rican
+Staten Island,Chinatown,Chinese
+Staten Island,Chinatown,Vietnamese
+Staten Island,East Harlem,Puerto Rican
+Staten Island,East Harlem,Mexican
+Staten Island,East Harlem,Dominican
+Staten Island,East Harlem,Chinese Cuban
+Staten Island,East Harlem,Italian
+Staten Island,East Village,Japanese
+Staten Island,East Village,Korean
+Staten Island,East Village,Indian
+Staten Island,East Village,Ukrainian
+Staten Island,Greenwich Village, Italian
+Staten Island,Greenwich Village,Middle Eastern
+Staten Island,Harlem,Italian
+Staten Island,Harlem,African American
+Staten Island,Harlem,Latin American
+Staten Island,Harlem,West Indian
+Staten Island,Harlem,West African
+Staten Island,Koreatown,Korean
+Staten Island,Nolita,Australian
+Staten Island,Little Italy,Italian
+Staten Island,Lower East Side,Puerto Rican
+Staten Island,Lower East Side,Jewish
+Staten Island,Lower East Side,Italian
+Staten Island,Lower East Side,Latin American
+Staten Island,Murray Hill,Indian
+Staten Island,Murray Hill,Pakistani
+Staten Island,Murray Hill,Bangladeshi
+Staten Island,Upper West Side Manhattan,Jewish
+Staten Island,Upper West Side Manhattan,Chinese Latino
+Staten Island,Washington Heights,Dominican
+Staten Island,Washington Heights,Puerto Rican
+Staten Island,Washington Heights,Mexican
+Staten Island,Washington Heights,Jewish
+Staten Island,Upper East Side,German
+Staten Island,Upper East Side,Czech
+Staten Island,Upper East Side,Hungarian
+Manhattan,Chinatown,Chinese
+Manhattan,Chinatown,Vietnamese
+Manhattan,East Harlem,Puerto Rican
+Manhattan,East Harlem,Mexican
+Manhattan,East Harlem,Dominican
+Manhattan,East Harlem,Chinese Cuban
+Manhattan,East Harlem,Italian
+Manhattan,East Village,Japanese
+Manhattan,East Village,Korean
+Manhattan,East Village,Indian
+Manhattan,East Village,Ukrainian
+Manhattan,Greenwich Village, Italian
+Manhattan,Greenwich Village,Middle Eastern
+Manhattan,Harlem,Italian
+Manhattan,Harlem,African American
+Manhattan,Harlem,Latin American
+Manhattan,Harlem,West Indian
+Manhattan,Harlem,West African
+Manhattan,Koreatown,Korean
+Manhattan,Nolita,Australian
+Manhattan,Little Italy,Italian
+Manhattan,Lower East Side,Puerto Rican
+Manhattan,Lower East Side,Jewish
+Manhattan,Lower East Side,Italian
+Manhattan,Lower East Side,Latin American
+Manhattan,Murray Hill,Indian
+Manhattan,Murray Hill,Pakistani
+Manhattan,Murray Hill,Bangladeshi
+Manhattan,Upper West Side Manhattan,Jewish
+Manhattan,Upper West Side Manhattan,Chinese Latino
+Manhattan,Washington Heights,Dominican
+Manhattan,Washington Heights,Puerto Rican
+Manhattan,Washington Heights,Mexican
+Manhattan,Washington Heights,Jewish
+Manhattan,Upper East Side,German
+Manhattan,Upper East Side,Czech
+Manhattan,Upper East Side,Hungarian

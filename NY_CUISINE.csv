@@ -1,0 +1,225 @@
+,Borough,Neighbourhood,Cuisine
+0,The Bronx,Bedford Park,Mexican
+1,The Bronx,Bedford Park,Puerto Rican
+2,The Bronx,Bedford Park,Dominican
+3,The Bronx,Bedford Park,Korean
+4,The Bronx,Belmont,Italian
+5,The Bronx,Belmont,Albanian 
+6,The Bronx,City Island,Italian
+7,The Bronx,City Island,Seafood
+8,The Bronx,Morris Park,Italian
+9,The Bronx,Morris Park,Albanian
+10,The Bronx,Norwood,Filipino
+11,The Bronx,Riverdale,Jewish
+12,The Bronx,South Bronx,Puerto Rican
+13,The Bronx,South Bronx,Dominican
+14,The Bronx,Wakefield,Jamaican
+15,The Bronx,Wakefield,West Indian
+16,The Bronx,Woodlawn,Irish
+17,Queens,Astoria,Greek
+18,Queens,Astoria,Italian
+19,Queens,Astoria,Eastern European
+20,Queens,Astoria,Brazilian
+21,Queens,Astoria,Egyptian
+22,Queens,Astoria,Arabic
+23,Queens,Bellerose,Indian
+24,Queens,Bellerose,Pakistani
+25,Queens,Flushing,Chinese
+26,Queens,Flushing,Korean
+27,Queens,Forest Hills,Jewish
+28,Queens,Forest Hills,Russian
+29,Queens,Forest Hills,Uzbek
+30,Queens, Kew Gardens Hills,Jewish
+31,Queens, Kew Gardens Hills,Russian
+32,Queens, Kew Gardens Hills,Uzbek
+33,Queens, Rego Park,Jewish
+34,Queens, Rego Park,Russian
+35,Queens, Rego Park,Uzbek
+36,Queens,Howard Beach,Italian
+37,Queens, Ozone Park,Italian
+38,Queens,Glendale,German
+39,Queens,Glendale,Polish
+40,Queens,Jackson Heights,Indian
+41,Queens,Jackson Heights,Pakistani
+42,Queens,Jackson Heights,Bangladeshi
+43,Queens,Jackson Heights,Colombian
+44,Queens,Jackson Heights,Ecuadorian
+45,Queens,Jackson Heights,Peruvian
+46,Queens,Jackson Heights,Korean
+47,Queens,Jackson Heights,Filipino
+48,Queens,Jackson Heights,Thai
+49,Queens,Jackson Heights,Tibetan
+50,Queens,Jackson Heights,Bhutanese
+51,Queens,Jackson Heights,Mexican
+52,Queens,Jamaica,Bangladeshi
+53,Queens,Jamaica,Caribbean
+54,Queens,Jamaica,African American
+55,Queens,Jamaica,African
+56,Queens,Jamaica,Creole
+57,Queens,Little Neck,Arab
+58,Queens,Little Neck,Chinese
+59,Queens,Little Neck,Italian
+60,Queens,Richmond Hill,Indian
+61,Queens,Richmond Hill,Guyanese
+62,Queens,Richmond Hill,Trinidadian
+63,Queens,Richmond Hill,Pakistani
+64,Queens,Richmond Hill,Bangladeshi
+65,Queens, South Ozone Park,Indian
+66,Queens, South Ozone Park,Guyanese
+67,Queens, South Ozone Park,Trinidadian
+68,Queens, South Ozone Park,Pakistani
+69,Queens, South Ozone Park,Bangladeshi
+70,Queens,The Rockaways,Irish
+71,Queens,The Rockaways,Jewish
+72,Queens,Woodhaven,Irish
+73,Queens,Woodhaven,Dominican
+74,Queens,Woodhaven,Mexican
+75,Queens,Woodhaven,Guyanese
+76,Queens,Woodside,Filipino
+77,Queens,Woodside,Irish
+78,Queens,Woodside,Mexican
+79,Queens,Woodside,Tibetan
+80,Queens,Woodside,Romanian
+81,Queens, Sunnyside,Filipino
+82,Queens, Sunnyside,Irish
+83,Queens, Sunnyside,Mexican
+84,Queens, Sunnyside,Tibetan
+85,Queens, Sunnyside,Romanian
+86,Brooklyn,Bay Ridge,Irish
+87,Brooklyn,Bay Ridge,Italian
+88,Brooklyn,Bay Ridge,Greek
+89,Brooklyn,Bay Ridge,Turkish
+90,Brooklyn,Bay Ridge,Lebanese
+91,Brooklyn,Bay Ridge,Palestinian
+92,Brooklyn,Bay Ridge,Yemeni
+93,Brooklyn,Bay Ridge,Arabic
+94,Brooklyn,Bedford-Stuyvesant,African American
+95,Brooklyn,Bedford-Stuyvesant,Jamaican
+96,Brooklyn,Bedford-Stuyvesant,Trinidadian
+97,Brooklyn,Bedford-Stuyvesant,Puerto Rican
+98,Brooklyn,Bedford-Stuyvesant,West Indian
+99,Brooklyn,Bensonhurst,Italian
+100,Brooklyn,Bensonhurst,Chinese
+101,Brooklyn,Bensonhurst,Turkish
+102,Brooklyn,Bensonhurst,Russian
+103,Brooklyn,Bensonhurst,Mexican
+104,Brooklyn,Bensonhurst,Uzbek
+105,Brooklyn,,Italian
+106,Brooklyn,,Chinese
+107,Brooklyn,,Turkish
+108,Brooklyn,,Russian
+109,Brooklyn,,Mexican
+110,Brooklyn,,Uzbek
+111,Brooklyn,Borough Park,Jewish
+112,Brooklyn,Borough Park,Italian
+113,Brooklyn,Borough Park,Mexican
+114,Brooklyn,Borough Park,Chinese
+115,Brooklyn,Brighton Beach,Russian
+116,Brooklyn,Brighton Beach,Georgian
+117,Brooklyn,Brighton Beach,Turkish
+118,Brooklyn,Brighton Beach,Pakistani
+119,Brooklyn,Brighton Beach,Ukrainian
+120,Brooklyn,Bushwick,Puerto Rican
+121,Brooklyn,Bushwick,Mexican
+122,Brooklyn,Bushwick,Dominican
+123,Brooklyn,Bushwick,Ecuadorian
+124,Brooklyn,Canarsie,Jamaican
+125,Brooklyn,Canarsie,West Indian
+126,Brooklyn,Canarsie,African American
+127,Brooklyn,Carroll Gardens,Italian
+128,Brooklyn,Crown Heights,Jamaican
+129,Brooklyn,Crown Heights,West Indian
+130,Brooklyn,Crown Heights,Jewish
+131,Brooklyn,East New York,African American
+132,Brooklyn,East New York,Dominican
+133,Brooklyn,East New York,Puerto Rican
+134,Brooklyn,Flatbush,Jamaican
+135,Brooklyn,Flatbush,Haitian
+136,Brooklyn,Flatbush,Creole
+137,Brooklyn,Greenpoint,Polish
+138,Brooklyn,Greenpoint,Ukrainian
+139,Brooklyn,Kensington,Bengali
+140,Brooklyn,Kensington,Pakistani
+141,Brooklyn,Kensington,Mexican
+142,Brooklyn,Kensington,Uzbek
+143,Brooklyn,Kensington,Polish
+144,Brooklyn,Midwood,Jewish
+145,Brooklyn,Midwood,Italian
+146,Brooklyn,Midwood,Russian
+147,Brooklyn,Midwood,Pakistani
+148,Brooklyn,Park Slope,Italian
+149,Brooklyn,Park Slope,Irish
+150,Brooklyn,Park Slope,French
+151,Brooklyn,Park Slope,Puerto Rican
+152,Brooklyn,Red Hook,Puerto Rican
+153,Brooklyn,Red Hook,African American
+154,Brooklyn,Red Hook,Italian
+155,Brooklyn,Sheepshead Bay,Seafood
+156,Brooklyn,Sheepshead Bay,Chinese
+157,Brooklyn,Sheepshead Bay,Russian
+158,Brooklyn,Sheepshead Bay,Italian
+159,Brooklyn,Sunset Park,Puerto Rican
+160,Brooklyn,Sunset Park,Chinese
+161,Brooklyn,Sunset Park,Arab
+162,Brooklyn,Sunset Park,Mexican
+163,Brooklyn,Sunset Park,Italian
+164,Brooklyn,Williamsburg,Italian
+165,Brooklyn,Williamsburg,Jewish
+166,Brooklyn,Williamsburg,Dominican
+167,Brooklyn,Williamsburg,Puerto Rican
+168,Manhattan,Chinatown,Chinese
+169,Manhattan,Chinatown,Vietnamese
+170,Manhattan,East Harlem,Puerto Rican
+171,Manhattan,East Harlem,Mexican
+172,Manhattan,East Harlem,Dominican
+173,Manhattan,East Harlem,Chinese Cuban
+174,Manhattan,East Harlem,Italian
+175,Manhattan,East Village,Japanese
+176,Manhattan,East Village,Korean
+177,Manhattan,East Village,Indian
+178,Manhattan,East Village,Ukrainian
+179,Manhattan,Greenwich Village, Italian
+180,Manhattan,Greenwich Village,Middle Eastern
+181,Manhattan,Harlem,Italian
+182,Manhattan,Harlem,African American
+183,Manhattan,Harlem,Latin American
+184,Manhattan,Harlem,West Indian
+185,Manhattan,Harlem,West African
+186,Manhattan,Koreatown,Korean
+187,Manhattan,Nolita,Australian
+188,Manhattan,Little Italy,Italian
+189,Manhattan,Lower East Side,Puerto Rican
+190,Manhattan,Lower East Side,Jewish
+191,Manhattan,Lower East Side,Italian
+192,Manhattan,Lower East Side,Latin American
+193,Manhattan,Murray Hill,Indian
+194,Manhattan,Murray Hill,Pakistani
+195,Manhattan,Murray Hill,Bangladeshi
+196,Manhattan,Upper West Side Manhattan,Jewish
+197,Manhattan,Upper West Side Manhattan,Chinese Latino
+198,Manhattan,Washington Heights,Dominican
+199,Manhattan,Washington Heights,Puerto Rican
+200,Manhattan,Washington Heights,Mexican
+201,Manhattan,Washington Heights,Jewish
+202,Manhattan,Upper East Side,German
+203,Manhattan,Upper East Side,Czech
+204,Manhattan,Upper East Side,Hungarian
+205,Staten Island,Port Richmond,Mexican
+206,Staten Island,Port Richmond,Indian
+207,Staten Island,Port Richmond,Italian
+208,Staten Island,South Beach,Italian
+209,Staten Island,South Beach,Russian
+210,Staten Island,South Beach,Arab
+211,Staten Island,South Beach,Polish
+212,Staten Island,Rossville,Italian
+213,Staten Island,Rossville,Russian
+214,Staten Island,Rossville,Arab
+215,Staten Island,Rossville,Polish
+216,Staten Island,Great Kills,Italian
+217,Staten Island,Great Kills,Russian
+218,Staten Island,Great Kills,Arab
+219,Staten Island,Great Kills,Polish
+220,Staten Island,Tompkinsville,Italian
+221,Staten Island,Tompkinsville,Sri Lankan
+222,Staten Island,Tompkinsville,Pakistani
+223,Staten Island,Tompkinsville,Indian
